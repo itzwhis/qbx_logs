@@ -1,4 +1,4 @@
---[[
+
     qbx_logs -  Discord Logging System
     Version: 1.1.0
     Author: itz_Whis
@@ -25,12 +25,5 @@
 
 
 
--- Webhook Configuration
-Config.Webhooks = {
-    ["default"] = "https://discord.com/api/webhooks/your-webhook-url",
-    ["resource"] = "https://discord.com/api/webhooks/your-resource-webhook",
-    ["admin"] = "https://discord.com/api/webhooks/your-admin-webhook"
 
-
-    
    
